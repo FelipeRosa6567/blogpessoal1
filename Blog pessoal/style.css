@@ -1,0 +1,296 @@
+body {
+    margin: 0px;
+    border: 0px;
+    padding: 0px;
+    box-sizing: 0px;
+    background-image: url(img/Fundo.jpeg);
+}
+
+div.botoes2 {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    gap: 30px;
+    justify-content:center;
+}
+
+button.poemas {
+    background-color: white;
+    width:70px;
+    height: 30px;
+    border-radius: 10px;
+}
+
+button.livros {
+    background-color: white;
+    width:70px;
+    height: 30px;
+    border-radius: 10px;
+}
+
+button.desenhos {
+    background-color: white;
+    width:100px;
+    height: 30px;
+    border-radius: 10px;
+}
+
+button.Atualizações {
+    background-color: white;
+    width:70px;
+    height: 30px;
+    border-radius: 10px;
+}
+
+button.doaçoes {
+    background-color: white;
+    width:70px;
+    height: 30px;
+    border-radius: 10px;
+}
+
+div.botoes{     
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    gap: 10px;
+    justify-content:start;
+}
+
+button.home{
+    background-color: white;
+    width:70px;
+    height: 30px;
+    outline: 1px solid black;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 10px;
+}
+
+button.social{
+    background-color: white;
+    width:70px;
+    height: 30px;
+    outline: 1px solid black;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 10px;
+}
+
+div.botoeslua {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    gap: 10px;
+    justify-content:center;
+}
+
+button.lua {
+    width:170px;
+    height: 165px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+h1.titulo1 {
+    text-align: center;
+    color: white;
+}
+
+div.cabeçalho {
+    background-image: url(img/fundo03.jpeg);
+    text-align: center;
+}
+
+div.corpo {
+    text-align: center;
+}
+
+b.poema {
+    color: black;
+}
+
+p {
+    color: white;
+}
+
+p.bio{
+    color: white;
+    text-align: center;
+}
+
+b {
+    color: white;
+}
+
+p.nome1 {
+    color: white;
+    background-color: black;
+    text-align: center;
+}
+
+p.doaçoes1 {
+    background-color: red;
+    color: white;
+    text-align: center;
+}
+
+
+.container {
+    width: 100%;
+    height: 250px;
+    display: flex;
+    background-color:  rgb(78, 78, 78);
+    flex-direction: row;
+    flex-wrap: wrap;
+    gap: 5px;
+    justify-content: center;
+}
+
+div.botoeslua02 {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    gap: 10px;
+    justify-content:center;
+}
+
+.iten1{
+    width: 295px;
+    height: 250px;
+    background-color: rgb(78, 78, 78);
+    display: flex;
+    text-align: center;
+    justify-content: center;
+
+}
+
+.iten2{
+    width: 295px;
+    height: 250px;
+    background-color: rgb(78, 78, 78);
+    display: flex;
+    text-align: center;
+    justify-content: center;
+
+}
+
+.iten3{
+    width: 295px;
+    height: 250px;
+    background-color: rgb(78, 78, 78);
+    display: flex;
+    text-align: center;
+    justify-content: center;
+
+}
+
+.iten4{
+    width: 295px;
+    height: 250px;
+    background-color:rgb(78, 78, 78);
+    display: flex;
+    text-align: center;
+    justify-content: center;
+
+}
+
+.iten5{
+    width: 295px;
+    height: 250px;
+    background-color: rgb(78, 78, 78);
+    display: flex;
+    text-align: center;
+    justify-content: center;
+
+}
+
+.container2 {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    gap: 10px;
+    justify-content: center;
+}
+
+.it1 {
+    width: 260px;
+    height: 250px;
+    outline: 1px solid black;
+    background-color: white;
+    display: flex;
+    text-align: center;
+    justify-content: center;
+}
+
+.it2 {
+    width: 260px;
+    height: 250px;
+    outline: 1px solid black;
+    background-color: white;
+    display: flex;
+    text-align: center;
+    justify-content: center;
+}
+
+.it3 {
+    width: 260px;
+    height: 250px;
+    outline: 1px solid black;
+    background-color: white;
+    display: flex;
+    text-align: center;
+    justify-content: center;
+}
+
+.it4 {
+    width: 260px;
+    height: 250px;
+    outline: 1px solid black;
+    background-color: white;
+    display: flex;
+    text-align: center;
+    justify-content: center;
+}
+
+.it5 {
+    width: 260px;
+    height: 250px;
+    outline: 1px solid black;
+    background-color: white;
+    display: flex;
+    text-align: center;
+    justify-content: center;
+}
+
+button.pooemas {
+    background-color: white;
+            width: 70px;
+            height: 30px;
+            outline: 1px solid black;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+}
+button.bl {
+    background-color: rgb(207, 207, 207);
+    outline: 1px solid black;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+div.botoes3 {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    gap: 10px;
+    justify-content:center;
+    align-items: end;
+}
+
+
+
